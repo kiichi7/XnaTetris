@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\桌面\XnaTetris\bin\x86\Debug\Content\SpaceBackground.xnb
+C:\Documents and Settings\Administrator\桌面\XnaTetris\bin\x86\Debug\Content\BackgroundBigBox.xnb
+C:\Documents and Settings\Administrator\桌面\XnaTetris\bin\x86\Debug\Content\BackgroundSmallBox.xnb
+C:\Documents and Settings\Administrator\桌面\XnaTetris\bin\x86\Debug\Content\Block.xnb
+C:\Documents and Settings\Administrator\桌面\XnaTetris\bin\x86\Debug\Content\GameFont.xnb
+C:\Documents and Settings\Administrator\桌面\XnaTetris\bin\x86\Debug\Content\TetrisSound.xgs
+C:\Documents and Settings\Administrator\桌面\XnaTetris\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Documents and Settings\Administrator\桌面\XnaTetris\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Documents and Settings\Administrator\桌面\XnaTetris\bin\x86\Debug\XnaTetris.exe
+C:\Documents and Settings\Administrator\桌面\XnaTetris\bin\x86\Debug\XnaTetris.pdb
+C:\Documents and Settings\Administrator\桌面\XnaTetris\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\XnaTetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrator\桌面\XnaTetris\obj\x86\Debug\XnaTetris.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrator\桌面\XnaTetris\obj\x86\Debug\XnaTetris.exe
+C:\Documents and Settings\Administrator\桌面\XnaTetris\obj\x86\Debug\XnaTetris.pdb

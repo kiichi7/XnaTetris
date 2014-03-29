@@ -1,0 +1,4 @@
+C:\Documents and Settings\Administrator\桌面\XnaTetris\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\XnaTetris\Content\obj\x86\Debug\TetrisSound.xml
+C:\Documents and Settings\Administrator\桌面\XnaTetris\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\XnaTetris\Content\obj\Xbox 360\Debug\TetrisSound.xml

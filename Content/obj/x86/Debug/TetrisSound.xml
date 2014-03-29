@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 0;
+    PC Bank Last Modified High = 0;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+
+    Wave
+    {
+        Name = TetrisVictory;
+        File = TetrisVictory.wav;
+        Build Settings Last Modified Low = 2588294122;
+        Build Settings Last Modified High = 29819193;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 1;
+            Play Region Offset = 56;
+            Play Region Length = 59742;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2148849782;
+            Last Modified High = 29818608;
+        }
+    }
+
+    Wave
+    {
+        Name = TetrisBlockFalldown;
+        File = TetrisBlockFalldown.wav;
+        Build Settings Last Modified Low = 2588294122;
+        Build Settings Last Modified High = 29819193;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 0;
+            Play Region Offset = 58;
+            Play Region Length = 10047;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1254767454;
+            Last Modified High = 29819062;
+        }
+    }
+
+    Wave
+    {
+        Name = TetrisBlockMove;
+        File = TetrisBlockMove.wav;
+        Build Settings Last Modified Low = 2588294122;
+        Build Settings Last Modified High = 29819193;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 1;
+            Play Region Offset = 56;
+            Play Region Length = 9024;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2244142454;
+            Last Modified High = 29819062;
+        }
+    }
+
+    Wave
+    {
+        Name = TetrisFight;
+        File = TetrisFight.wav;
+        Build Settings Last Modified Low = 2588450372;
+        Build Settings Last Modified High = 29819193;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 56;
+            Play Region Length = 40028;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2659454954;
+            Last Modified High = 29819062;
+        }
+    }
+
+    Wave
+    {
+        Name = TetrisLineKill;
+        File = TetrisLineKill.wav;
+        Build Settings Last Modified Low = 2588450372;
+        Build Settings Last Modified High = 29819193;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 8000;
+            Bits Per Sample = 0;
+            Play Region Offset = 56;
+            Play Region Length = 3932;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 443361204;
+            Last Modified High = 29819062;
+        }
+    }
+
+    Wave
+    {
+        Name = TetrisLose;
+        File = TetrisLose.wav;
+        Build Settings Last Modified Low = 2588450372;
+        Build Settings Last Modified High = 29819193;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 1;
+            Play Region Offset = 58;
+            Play Region Length = 13882;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1641173704;
+            Last Modified High = 29819062;
+        }
+    }
+
+    Wave
+    {
+        Name = TetrisRotate;
+        File = TetrisRotate.wav;
+        Build Settings Last Modified Low = 2588450372;
+        Build Settings Last Modified High = 29819193;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 8000;
+            Bits Per Sample = 0;
+            Play Region Offset = 56;
+            Play Region Length = 1613;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 852111204;
+            Last Modified High = 29819062;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>
